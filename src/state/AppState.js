@@ -3,8 +3,8 @@ import { EventEmitter } from "events";
 class AppState {
     constructor() {
         // default states, populated through URL vars
-        this.team = false;
-        this.event = false;
+        this.team = "11214";
+        this.event = "2026gadp";
         this.showWebcasts = true;
         this.teamEventVerified = undefined;
         this.showSettingsPane = false; // show entire settings pane
