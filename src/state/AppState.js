@@ -4,7 +4,7 @@ class AppState {
     constructor() {
         // default states, populated through URL vars
         this.team = "11214";
-        this.event = "2026gadp";
+        this.event = "2026gadal";
         this.showWebcasts = true;
         this.teamEventVerified = undefined;
         this.showSettingsPane = false; // show entire settings pane
